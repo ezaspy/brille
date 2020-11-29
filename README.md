@@ -1,11 +1,16 @@
 <!-- PROJECT LOGO -->
 ```
-                                 _               _    _          
-                                ( )           _ (_ ) (_ )        
-                                | |_    _ __ (_) | |  | |    __  
-                                | '_`\ ( '__)| | | |  | |  /'__`\\
-                                | |_) )| |   | | | |  | | (  ___/     _  _     _ 
-                                (_,__/'(_)   (_)(___)(___)`\____)    | |(_)|_|| |
+                              _               _    _          
+                             ( )           _ (_ ) (_ )        
+                             | |_    _ __ (_) | |  | |    __  
+                             | '_`\ ( '__)| | | |  | |  /'__`\\
+                             | |_) )| |   | | | |  | | (  ___/     _  _     _ 
+                             (_,__/'(_)   (_)(___)(___)`\____)    | |(_)|_|| |
+
+                             bril·​le | \\\'bri-lə\\
+                             plural: brilles
+                             Definition of brille: a transparent, disc-shaped, immobile
+                             scale that covers the eye of most snakes and geckos
 ```
 <p align="center">
   <h1 align="center">brille</h1>
