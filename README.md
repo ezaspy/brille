@@ -9,8 +9,8 @@
 
             bril·​le | \\\'bri-lə\\
             \x1B[3mplural\x1B[23m \033[1;33mbrilles\033[1;m
-            Definition of \x1B[3mbrille\x1B[23m: a transparent, disc-shaped, immobile scale
-            that covers the eye of most snakes and geckos
+            Definition of \x1B[3mbrille\x1B[23m: a transparent, disc-shaped, immobile scale that
+            covers the eye of most snakes and geckos
 ```
 <p align="center">
   <h1 align="center">brille</h1>
